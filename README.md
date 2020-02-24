@@ -1,6 +1,6 @@
 # Revelry-Event-Finder
 
-https://phoenix-99hp.github.io/Revelry-Event-Finder/
+Deployed: https://phoenix-99hp.github.io/Revelry-Event-Finder/
 
 This is an event finder that finds up to 199 events through the ticketmaster api. 5 events from a specified city are loaded into the main content area between the dates specified, and more events can be loaded by clicking the "More" button. Additionally, a 5-day weather forecast is provided in the specified city via an api call to the openweathermap api. 
 
